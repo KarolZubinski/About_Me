@@ -74,5 +74,5 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## My Projects
 
-* - Group project - leader - testing site [CODE:ME](https://codeme.quellio.com/)
+* - Group project - testing site [CODE:ME](https://codeme.quellio.com/)
      - [Tablica trello.com](https://trello.com/b/jERw9zEh/codeme-www-bugi)
