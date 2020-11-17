@@ -5,7 +5,7 @@
 
 ## About me
 
-My name is Karol Żubiński. I am master of geography without especiality . I graduated at the University of Warsaw,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Karol Żubiński. I am master of geography without especiality . I graduated at the University of Warsaw,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.In free time i playing chess also on tournaments.
 
 
 # Tools
@@ -74,4 +74,5 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## My Projects
 
-* 
+* - Group project - leader - testing site [CODE:ME](https://codeme.quellio.com/)
+     - [Tablica trello.com](https://trello.com/b/jERw9zEh/codeme-www-bugi)
