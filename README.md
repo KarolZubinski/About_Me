@@ -26,7 +26,7 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 * Testing: Webservices, XML, JSON, Selenium(in progress) 
 * Frameworks: Spring(in progress)
 * Version Control Systems: Git
-* Other tools: TestLink
+* Other tools: TestLink,SOAP Ul
 
 ## Courses 
 
