@@ -5,7 +5,12 @@
 
 ## About me
 
-My name is Karol Żubiński. I am master of geography without especiality . I graduated at the University of Warsaw,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.In free time i playing chess also on tournaments.
+My name is Karol Żubiński. 
+I graduated from the University of Warsaw, Poland with master degree in geography. After my studies I was working as a driver, throughout Poland. 
+In early 2020 I've started to think how to change Non-IT work to Software Testing Career. In October 2020 I have completed a course for manual tester and start to new challenge - automation tester. 
+My goal is to develop testing knowledge 
+and technical skills. Here, I will share my experience obtained from personal studies and researches. 
+In free time I play chess (also participate in tournaments).
 
 
 # Tools
@@ -20,22 +25,22 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## Tech Stack
 
-* ISTQB: Foundation Level(in progress)
+* ISTQB: Foundation Level (in progress)
 * Databases: MySQL, SQL Server (in progress)
-* Languages: SQL, Java(Test Automation)(in progress)
-* Testing: Webservices, XML, JSON, Selenium(in progress) 
-* Frameworks: Spring(in progress)
+* Languages: SQL, Java -Automation Test (in progress)
+* Testing: Webservices, XML, JSON, Selenium (in progress) 
+* Frameworks: Spring (in progress)
 * Version Control Systems: Git
-* Other tools: TestLink,SOAP Ul
+* Other tools: TestLink, SOAP Ul
 
 ## Courses 
 
-* CodersLab - Automation tester (in progress)(will finish in december 2020)
-* CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher + 40h self work)
+* CodersLab - Automation tester (in progress) (end in December 2020)
+* CodersLab - Manual Tester- finished in october 2020 (Course included 80h training with couch + 40h self work)
 
-## Certyficates
+## Certificates
 
-* Certyficate Manual Tester No. 6392/2020 by Coders Lab
+* Certificate Manual Tester No. 6392/2020 by Coders Lab
 
 
 
