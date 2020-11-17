@@ -31,8 +31,8 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## Courses 
 
-* CodersLab - Automation tester 
-* CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher)
+* CodersLab - Automation tester (in progress)(will finish in december)
+* CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher + 40h self work)
 
 
 
