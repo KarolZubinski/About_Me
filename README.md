@@ -5,7 +5,7 @@
 
 ## About me
 
-My name is Karol Żubiński. I am master of geography without especiality . I graduated at the University of Warsaw,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+My name is Karol Żubiński. I am master of geography without especiality . I graduated at the University of Warsaw,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
 
 
 # Tools
@@ -33,12 +33,16 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 * CodersLab - Automation tester (in progress)(will finish in december 2020)
 * CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher + 40h self work)
 
+## Certyficates
+
+* Certyficate Manual Tester No. 6392/2020 by Coders Lab
+
 
 
 ## Books
 
 * [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progress)
-* [Java. Rusz głową!](https://helion.pl/ksiazki/java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates,javrg2.htm#format/d)
+* [Java. Rusz głową!](https://helion.pl/ksiazki/java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates,javrg2.htm#format/d)(in progress)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
 * [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
 * [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)
@@ -64,7 +68,9 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## Webinars
 
-* 
+* Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
+* Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
+* Po co nam testy jednostkowe - [Szkoła testów](https://szkolatestow.online/)
 
 ## My Projects
 
