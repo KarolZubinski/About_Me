@@ -24,21 +24,24 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 * ISTQB: Foundation Level(in progress)
 * Databases: MySQL, SQL Server (in progress)
 * Languages: SQL, Java(Test Automation)(in progress)
-* Testing:Webservices, XML, JSON, Selenium(in progress) 
+* Testing: Webservices, XML, JSON, Selenium(in progress) 
 * Frameworks: Spring(in progress)
 * Version Control Systems: Git
 * Other tools:Trello, TestLink
 
 ## Courses 
 
-* CodersLab - Automation tester (in progress)(will finish in december)
+* CodersLab - Automation tester (in progress)(will finish in december 2020)
 * CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher + 40h self work)
 
 
 
 ## Technical Books read
 
+* [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progres)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
+* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
+*
 
 
 ## Groups on Facebook
