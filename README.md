@@ -36,12 +36,12 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 
 
-## Technical Books read
+## Books
 
-* [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progres)
+* [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progress)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 * [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
-*
+* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)
 
 
 ## Groups on Facebook
