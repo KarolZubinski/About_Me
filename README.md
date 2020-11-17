@@ -17,7 +17,7 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - Github(https://github.com/)
+  - [Github](https://github.com/)
 
 ## Tech Stack
 
@@ -31,7 +31,9 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 
 ## Courses 
 
-* CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher)(
+* CodersLab - Automation tester 
+* CodersLab - Manual Tester-finished in october 2020 (course included 80h practice with teacher)
+
 
 
 ## Technical Books read
@@ -42,16 +44,16 @@ My name is Karol Żubiński. I am master of geography without especiality . I gr
 ## Groups on Facebook
 
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
+* [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
 * [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
 
 ## Blogs read
 
 * [testerzy.pl](http://testerzy.pl)
-* [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
+* [bulldogjob.pl blog](https://bulldogjob.pl/blog)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
 ## My Test Documentation
