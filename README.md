@@ -81,3 +81,4 @@ In free time I play chess (also participate in tournaments).
 
 * - Group project - testing site [CODE:ME](https://codeme.quellio.com/)
      - [Tablica trello.com](https://trello.com/b/jERw9zEh/codeme-www-bugi)
+      
