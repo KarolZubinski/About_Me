@@ -57,10 +57,13 @@ In free time I play chess (also participate in tournaments).
  
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 * [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
+* [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
 * [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 * [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
 * [Programowanie - pierwsze kroki (Java, C#, Python, JS)](https://www.facebook.com/groups/485381788583271)
 * [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
+* [Java: pierwsze kroki - Skuteczna pomoc w nauce Javy](https://www.facebook.com/groups/michal.akademiakodu)
+
 
 
 ## Blogs 
@@ -76,6 +79,7 @@ In free time I play chess (also participate in tournaments).
 * Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
 * Po co nam testy jednostkowe - [Szkoła testów](https://szkolatestow.online/)
+* Twój pierwszy test automatyczny w chmurze od podstaw - [
 
 ## My Projects
 
