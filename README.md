@@ -79,7 +79,7 @@ In free time I play chess (also participate in tournaments).
 * Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
 * Po co nam testy jednostkowe - [Szkoła testów](https://szkolatestow.online/)
-* Twój pierwszy test automatyczny w chmurze od podstaw - [
+* Twój pierwszy test automatyczny w chmurze od podstaw - [jaktestować.pl]( https://jaktestowac.pl/)
 
 ## My Projects
 
