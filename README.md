@@ -39,7 +39,7 @@ In free time I play chess (also participate in tournaments).
 ## Certificates
 
 * Certificate Manual Tester No. 6392/2020 by Coders Lab
-* SQL course SOLOlearn Certificate No. #1060-17901397 (https://www.sololearn.com/Certificate/1060-17901397/pdf/)
+* [SQL course SOLOlearn Certificate No. #1060-17901397] (https://www.sololearn.com/Certificate/1060-17901397/pdf/)
 
 
 
