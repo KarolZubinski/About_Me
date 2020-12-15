@@ -25,7 +25,7 @@ In free time I play chess (also participate in tournaments).
 ## Tech Stack
 
 * ISTQB: Foundation Level (in progress)
-* Databases: MySQL, SQL Server (in progress)
+* Databases: MySQL
 * Languages: SQL, Java -Automation Test (in progress)
 * Testing: Webservices, XML, JSON, Selenium (in progress) 
 * Version Control Systems: Git
@@ -39,6 +39,7 @@ In free time I play chess (also participate in tournaments).
 ## Certificates
 
 * Certificate Manual Tester No. 6392/2020 by Coders Lab
+* SQL course SOLOlearn Certificate No. #1060-17901397 (https://www.sololearn.com/Certificate/1060-17901397/pdf/)
 
 
 
