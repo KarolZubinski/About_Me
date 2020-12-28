@@ -15,8 +15,8 @@ In free time I play chess (also participate in tournaments).
 
 # Tools
   - [Lightshoot](https://app.prntscr.com/pl/) - Screen capture software
-  - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
