@@ -33,7 +33,7 @@ In free time I play chess (also participate in tournaments).
 
 ## Courses 
 
-* CodersLab - Automation tester (in progress) (end in December 2020)
+* CodersLab - Automation tester  finished  in December 2020 (Course included 104h online + 40h self work)
 * CodersLab - Manual Tester- finished in october 2020 (Course included 80h training with couch + 40h self work)
 
 ## Certificates
