@@ -26,8 +26,8 @@ In free time I play chess (also participate in tournaments).
 
 * ISTQB: Foundation Level (in progress)
 * Databases: MySQL
-* Languages: SQL, Java -Automation Test (in progress)
-* Testing: Webservices, XML, JSON, Selenium (in progress) 
+* Languages: SQL, Java-Automation Test
+* Testing: Webservices, XML, JSON, Selenium 
 * Version Control Systems: Git
 * Other tools: TestLink, SOAP Ul
 
