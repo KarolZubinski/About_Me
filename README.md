@@ -5,9 +5,9 @@
 
 ## About me
 
-My name is Karol Żubiński. 
-I graduated from the University of Warsaw, Poland with master degree in geography. After my studies I was working as a driver, throughout Poland. 
-In early 2020 I've started to intresting software testing. In October 2020 I have completed a course for manual tester and start to new challenge - automation tester. 
+My name is Karol Żubiński.
+At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. I am gaining experience in the field on the uTest.com platform and a non-commercial project. Meanwhile, I am looking for a permanent job as a Junior
+. In October 2020 I have completed a course for manual tester and start to new challenge - automation tester. 
 My goal is to develop testing knowledge 
 and technical skills. Here, I will share my experience obtained from personal studies and researches. 
 In free time I play chess (also participate in tournaments).
