@@ -27,7 +27,7 @@ In free time I play chess (also participates in tournaments).
 * Languages: SQL, Java-Automation Test
 * Testing: Webservices, XML, JSON, Selenium, Cucumber
 * Version Control Systems: Git
-* Other tools: TestLink, SOAP Ul
+* Other tools: TestLink
 
 ## Courses 
 
