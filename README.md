@@ -53,7 +53,6 @@ In free time I play chess (also participates in tournaments).
 ## Groups on Facebook
  
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
 * [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 * [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
