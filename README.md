@@ -22,7 +22,7 @@ In free time I play chess (also participates in tournaments).
 
 ## Tech Stack
 
-* ISTQB: Foundation Level (in progress)
+* ISTQB: Foundation Level 
 * Databases: MySQL
 * Languages: SQL, Java-Automation Test
 * Testing: Webservices, XML, JSON, Selenium, Cucumber
