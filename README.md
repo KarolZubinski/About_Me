@@ -45,8 +45,8 @@ In free time I play chess (also participates in tournaments).
 
 * [Zawód Tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
-* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
-* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)
+* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)(in progress)
+* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)(in progress)
 * [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progress)
 
 
@@ -70,6 +70,7 @@ In free time I play chess (also participates in tournaments).
 * [bulldogjob.pl blog](https://bulldogjob.pl/blog)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [Cherry-IT](http://cherry-it.pl/)
+* [Wyszkole Was](https://www.wyszkolewas.com.pl/)
 
 ## Webinars
 
