@@ -24,7 +24,6 @@ In free time I play chess (also participates in tournaments).
 
 * Databases: MySQL
 * Languages: SQL, Java for testers
-* //Testing: Webservices, XML, JSON, Selenium, Cucumber
 * Version Control Systems: Git
 * Other tools: TestLink, Slack
 
