@@ -23,10 +23,10 @@ In free time I play chess (also participates in tournaments).
 ## Tech Stack
 
 * Databases: MySQL
-* Languages: SQL, Java-Automation Test
-* Testing: Webservices, XML, JSON, Selenium, Cucumber
+* Languages: SQL, Java for testers
+//* Testing: Webservices, XML, JSON, Selenium, Cucumber
 * Version Control Systems: Git
-* Other tools: TestLink
+* Other tools: TestLink, Slack
 
 ## Courses 
 
