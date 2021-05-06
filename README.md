@@ -89,6 +89,6 @@ In free time I play chess (also participates in tournaments).
 
 
 
-[CV_Karol_Żubiński.pdf](https://github.com/KarolZubinski/portfolio/files/6436588/CV_Karol_Zubinski.pdf)
+
 
       
