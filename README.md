@@ -84,4 +84,11 @@ In free time I play chess (also participates in tournaments).
      
 * - Group project - testing web app [Smart Oak Projects](http://smartoak-landingpage-dev-bucket.s3-website.eu-central-1.amazonaws.com/pl/)
      - [Tablica trello.com](https://trello.com/b/9MzZ5Bvc/smart-oak-frontend)
+
+
+
+
+
+[CV_Karol_Żubiński.pdf](https://github.com/KarolZubinski/portfolio/files/6436588/CV_Karol_Zubinski.pdf)
+
       
