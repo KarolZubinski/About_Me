@@ -17,7 +17,7 @@ In free time I play chess (also participates in tournaments).
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - [Github](https://github.com/)
+
 
 ## Tech Stack
 
