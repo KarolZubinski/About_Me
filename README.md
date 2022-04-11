@@ -63,11 +63,11 @@ In free time I play chess (also participates in tournaments).
 ## Blogs 
 
 * [testerzy.pl](http://testerzy.pl)
-* [toniebug.pl](https://www.toniebug.pl)
 * [bulldogjob.pl blog](https://bulldogjob.pl/blog)
 * [Oh My Dev](https://ohmydev.pl/communities/testing)
-* [Cherry-IT](http://cherry-it.pl/)
 * [Wyszkole Was](https://www.wyszkolewas.com.pl/)
+* [Cherry-IT](http://cherry-it.pl/)
+
 
 ## Webinars
 
