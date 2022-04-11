@@ -21,10 +21,10 @@ In free time I play chess (also participates in tournaments).
 
 ## Tech Stack
 
-//* Databases: MySQL
-//* Languages: SQL, Java for testers
-//* Version Control Systems: Git
-//* Other tools: TestLink, Slack
+* Databases: MySQL
+* Languages: SQL, Java for testers
+* Version Control Systems: Git
+* Other tools: TestLink, Slack
 
 ## Courses 
 
