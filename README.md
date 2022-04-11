@@ -66,7 +66,7 @@ In free time I play chess (also participates in tournaments).
 * [bulldogjob.pl blog](https://bulldogjob.pl/blog)
 * [Oh My Dev](https://ohmydev.pl/communities/testing)
 * [Wyszkole Was](https://www.wyszkolewas.com.pl/)
-* [Just Geek IT)(https://geek.justjoin.it/)
+* [Just Geek IT](https://geek.justjoin.it/)
 * [Cherry-IT](http://cherry-it.pl/)
 
 
