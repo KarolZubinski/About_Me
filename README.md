@@ -5,7 +5,7 @@
 ## About me
 
 My name is Karol Żubiński.
-At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. I am gaining experience in the field on the uTest.com platform and a non-commercial project. Meanwhile, I am looking for a permanent job as a Junior. In October 2020 I have completed a course for manual tester and in December i also completed a course automation tester. 
+At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. I am gaining experience in the field on the uTest.com platform and  non-commercial projects. Meanwhile, I am looking for a permanent job as a Junior. In October 2020 I have completed a course for manual tester and in December i also completed a course automation tester. 
 My goal is to improve testing knowledge and technical skills. Here, I will share my experience obtained from personal studies and researches. 
 In free time I play chess (also participates in tournaments).
 
