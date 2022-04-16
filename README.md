@@ -21,8 +21,8 @@ In free time I play chess (also participates in tournaments).
 
 ## Tech Stack
 
-* Databases: MySQL
-* Languages: SQL, Java for testers
+* Databases: SQL
+* Languages: Java (for testers)
 * Version Control Systems: Git
 * Other tools: TestLink, Slack
 
@@ -30,12 +30,13 @@ In free time I play chess (also participates in tournaments).
 
 * CodersLab - Automation tester  finished  in December 2020 (Course included 104h online + 40h self work)
 * CodersLab - Manual Tester- finished in october 2020 (Course included 80h training with couch + 40h self work)
+* Sololearn SQL (https://www.sololearn.com/home)
 
 ## Certificates
 
 * ISTQB: Foundation Level 
 * Certificate Manual Tester No. 6392/2020 by Coders Lab
-* [SQL course SOLOlearn Certificate No. #1060-17901397](https://www.sololearn.com/Certificate/1060-17901397/pdf/)
+
 
 
 
