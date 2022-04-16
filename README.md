@@ -30,7 +30,7 @@ In free time I play chess (also participates in tournaments).
 
 * CodersLab - Automation tester  finished  in December 2020 (Course included 104h online + 40h self work)
 * CodersLab - Manual Tester- finished in october 2020 (Course included 80h training with couch + 40h self work)
-* Sololearn SQL (https://www.sololearn.com/home)
+* [Sololearn SQL] (https://www.sololearn.com/home)
 
 ## Certificates
 
