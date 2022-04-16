@@ -44,10 +44,11 @@ In free time I play chess (also participates in tournaments).
 
 * [Zawód Tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 * [U mnie działa. Język branży IT](https://helion.pl/ksiazki/u-mnie-dziala-jezyk-branzy-it-pawel-baszuro,umnied.htm#format/d)
+* [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
 * [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)(in progress)
 * [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)(in progress)
-* [Programiści i Tłumacze](https://helion.pl/ksiazki/programisci-i-tlumacze-wprowadzenie-do-lokalizacji-oprogramowania-agenor-hofmann-delbor-marta-bartnicka,protlu.htm#format/d)(in progress)
+
 
 
 ## Groups on Facebook
