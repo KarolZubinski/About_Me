@@ -43,6 +43,7 @@ In free time I play chess (also participates in tournaments).
 ## Books
 
 * [Zawód Tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+* [U mnie działa. Język branży IT](https://helion.pl/ksiazki/u-mnie-dziala-jezyk-branzy-it-pawel-baszuro,umnied.htm#format/d)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
 * [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)(in progress)
 * [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)(in progress)
@@ -56,7 +57,6 @@ In free time I play chess (also participates in tournaments).
 * [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 * [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
 * [Programowanie - pierwsze kroki (Java, C#, Python, JS)](https://www.facebook.com/groups/485381788583271)
-* [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
 * [Java: pierwsze kroki - Skuteczna pomoc w nauce Javy](https://www.facebook.com/groups/michal.akademiakodu)
 
 
