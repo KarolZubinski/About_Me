@@ -85,7 +85,7 @@ In free time I play chess (also participates in tournaments).
 * - Group project - testing site [CODE:ME]
      - [Tablica trello.com](https://trello.com/b/jERw9zEh/codeme-www-bugi)
      
-* - Group project - testing web app [Cherry-IT Projects]
+* - Group project - testing web app [Cherry-IT Project]
      - [Tablica trello.com](https://trello.com/b/M8n2uzsJ/stycze%C5%842021-przygotowanie)
 
 
