@@ -72,7 +72,7 @@ In free time I play chess (also participates in tournaments).
 * [Cherry-IT](http://cherry-it.pl/)
 
 
-## Webinars
+## Webinars and Podcasts
 
 * Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
