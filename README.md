@@ -46,14 +46,15 @@ In free time I play chess (also participates in tournaments).
 * [U mnie działa. Język branży IT](https://helion.pl/ksiazki/u-mnie-dziala-jezyk-branzy-it-pawel-baszuro,umnied.htm#format/d)
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
-* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)(in progress)
-* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)(in progress)
+* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
+* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)
 
 
 
 ## Groups on Facebook
  
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Tester oprogramowania](https://www.facebook.com/groups/141683635854223)
 * [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
 * [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 * [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
@@ -69,14 +70,13 @@ In free time I play chess (also participates in tournaments).
 * [Oh My Dev](https://ohmydev.pl/communities/testing)
 * [Wyszkole Was](https://www.wyszkolewas.com.pl/)
 * [Just Geek IT](https://geek.justjoin.it/)
-* [Cherry-IT](http://cherry-it.pl/)
+
 
 
 ## Webinars and Podcasts
 
 * Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
-* Po co nam testy jednostkowe - [Szkoła testów](https://szkolatestow.online/)
 * Twój pierwszy test automatyczny w chmurze od podstaw - [jaktestować.pl]( https://jaktestowac.pl/)
 * Agile w Jira - [Atlassian](https://ttpsc.com/pl/atlassian/)
 
