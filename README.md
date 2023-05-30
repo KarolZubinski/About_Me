@@ -46,6 +46,7 @@ In free time I play chess (also participates in tournaments).
 * [Kurs Git dla początkujących](https://www.udemy.com/course/kurs-gita/)
 * [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
 * [Chat GPT - od zera do mastera! opanuj Sztuczną Inteligencję!](https://www.udemy.com/course/chat-gpt-kurs/)
+* [Kurs Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
 
 ## Certificates
 
