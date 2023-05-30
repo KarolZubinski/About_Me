@@ -15,13 +15,14 @@ In free time I play chess (also participates in tournaments).
 
 # Tools
  
-  - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers
-  - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet
-  - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - [Browserstack](https://www.browserstack.com/) BrowserStack’s cloud platform which helps test on many devices.
-  - [Xmind](https://www.xmind.net/)- Mind mapping softwares
-  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers.
+  - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet.
+  - [Postman](https://www.postman.com/) - Testing tool for REST API.
+  - [Trello](https://trello.com/) - Issue tracking and project management tool for developers.
+  - [Browserstack](https://www.browserstack.com/) - BrowserStack’s cloud platform which helps test on many devices.
+  - [Screamingfrog](https://www.screamingfrog.co.uk/seo-spider/) - a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
+  - [Docker](https://www.docker.com/) - (for testers, basics).
+  - [Jenkis](https://www.jenkins.io/) - (for testers, basics).
 
 
 ## Tech Stack
