@@ -14,7 +14,7 @@ In free time I play chess (also participates in tournaments).
  
   - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - [Postman] (Newman)(https://www.postman.com/) - Testing tool for REST API
+  - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
