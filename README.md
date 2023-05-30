@@ -9,7 +9,7 @@ At the beginning of 2020 I became interested in software testing. This field bro
 Currently, 
 I am a Software Tester with more than 2 years ofexperience and recently associated with a largeinternational marketing agency. 
 I have participated inseveral projects ever since. I am constantly developingmyself, expanding my knowledge of various aspects oftesting, learning new tools. 
-Currently, I am focusing onimproving my knowledge in terms of test automation.. 
+Currently, I am focusing onimproving my knowledge in terms of test automation. 
 In free time I play chess (also participates in tournaments).
 
 
@@ -19,6 +19,7 @@ In free time I play chess (also participates in tournaments).
   - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Browserstack](https://www.browserstack.com/) BrowserStack’s cloud platform which helps test on many devices.
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 
