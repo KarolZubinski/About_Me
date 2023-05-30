@@ -21,8 +21,10 @@ In free time I play chess (also participates in tournaments).
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers.
   - [Browserstack](https://www.browserstack.com/) - BrowserStack’s cloud platform which helps test on many devices.
   - [Screamingfrog](https://www.screamingfrog.co.uk/seo-spider/) - a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
+  - [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (basics).
   - [Docker](https://www.docker.com/) - (for testers, basics).
   - [Jenkis](https://www.jenkins.io/) - (for testers, basics).
+  - [Powershell](https://github.com/PowerShell/PowerShell) - an open-source, command-line interface (CLI) based tool, (basics).
 
 
 ## Tech Stack
