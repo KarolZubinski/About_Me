@@ -11,20 +11,22 @@ In free time I play chess (also participates in tournaments).
 
 
 # Tools
-  - [Lightshoot](https://app.prntscr.com/pl/) - Screen capture software
+ 
   - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
+  - 
+
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 
 
 ## Tech Stack
 
-* Databases: SQL
-* Languages: Java (for testers)
-* Version Control Systems: Git
-* Other tools: TestLink, Slack
+
+* Languages: Java (for testers), Typescript/Javascript (for testers) (basics)
+* Version Control Systems: Git (basics)
+* IDE: Visual Studio Code, IntelliJ (basics)
+* Databases: SQL (basics)
 
 ## Courses 
 
@@ -46,7 +48,6 @@ In free time I play chess (also participates in tournaments).
 * [U mnie działa. Język branży IT](https://helion.pl/ksiazki/u-mnie-dziala-jezyk-branzy-it-pawel-baszuro,umnied.htm#format/d)
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 * [Testowanie Oprogramowania](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
-* [SQL Praktyczny kurs](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
 * [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginf.htm#format/d)
 
 
@@ -79,6 +80,7 @@ In free time I play chess (also participates in tournaments).
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
 * Twój pierwszy test automatyczny w chmurze od podstaw - [jaktestować.pl]( https://jaktestowac.pl/)
 * Agile w Jira - [Atlassian](https://ttpsc.com/pl/atlassian/)
+* and more.
 
 ## My Projects
 
