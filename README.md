@@ -5,15 +5,18 @@
 ## About me
 
 My name is Karol Żubiński.
-At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. I am gaining experience in the field on the uTest.com platform and  non-commercial projects. Meanwhile, I am looking for a permanent job as a Junior. In October 2020 I have completed a course for manual tester and in December i also completed a course automation tester. 
-My goal is to improve testing knowledge and technical skills. Here, I will share my experience obtained from personal studies and researches. 
+At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. 
+Currently, 
+I am a Software Tester with more than 2 years ofexperience and recently associated with a largeinternational marketing agency. 
+I have participated inseveral projects ever since. I am constantly developingmyself, expanding my knowledge of various aspects oftesting, learning new tools. 
+Currently, I am focusing onimproving my knowledge in terms of test automation.. 
 In free time I play chess (also participates in tournaments).
 
 
 # Tools
  
   - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers
-  - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Xmind](https://www.xmind.net/)- Mind mapping softwares
@@ -23,7 +26,7 @@ In free time I play chess (also participates in tournaments).
 ## Tech Stack
 
 
-* Languages: Java (for testers), Typescript/Javascript (for testers) (basics)
+* Languages: Java (for testers), Typescript/ Javascript (for testers) (basics)
 * Version Control Systems: Git (basics)
 * IDE: Visual Studio Code, IntelliJ (basics)
 * Databases: SQL (basics)
