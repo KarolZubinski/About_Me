@@ -39,7 +39,7 @@ In free time I play chess (also participates in tournaments).
 
 * CodersLab - Automation tester  finished  in December 2020 (Course included 104h online + 40h self work)
 * CodersLab - Manual Tester- finished in october 2020 (Course included 80h training with coach + 40h self work)
-* [Sololearn SQL](https://www.sololearn.com/home)
+* [Praktyczne wprowadzenie do testów automatycznych z Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/)
 * [Szkoła Testowania Backendu](https://akademiaqa.pl/backend/)
 * [CI/CD Jenkins dla testera/programisty w praktyce!](https://www.udemy.com/course/ci-cd-jenkins/)
 * [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
@@ -47,6 +47,7 @@ In free time I play chess (also participates in tournaments).
 * [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
 * [Chat GPT - od zera do mastera! opanuj Sztuczną Inteligencję!](https://www.udemy.com/course/chat-gpt-kurs/)
 * [Kurs Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
+* [Sololearn SQL](https://www.sololearn.com/home)
 
 ## Certificates
 
