@@ -30,9 +30,9 @@ In free time I play chess (also participates in tournaments).
 ## Tech Stack
 
 
-* Languages: Java (for testers), Typescript/ Javascript (for testers) (basics)
+* Languages:Typescript/ Javascript (for testers)
 * Version Control Systems: Git (basics)
-* IDE: Visual Studio Code, IntelliJ (basics)
+* IDE: Visual Studio Code
 * Databases: SQL (basics)
 
 ## Courses 
@@ -73,9 +73,8 @@ In free time I play chess (also participates in tournaments).
 * [Tester oprogramowania](https://www.facebook.com/groups/141683635854223)
 * [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
 * [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
-* [Java dla początkujących](https://www.facebook.com/groups/231900600895570/)
 * [Programowanie - pierwsze kroki (Java, C#, Python, JS)](https://www.facebook.com/groups/485381788583271)
-* [Java: pierwsze kroki - Skuteczna pomoc w nauce Javy](https://www.facebook.com/groups/michal.akademiakodu)
+
 
 
 
