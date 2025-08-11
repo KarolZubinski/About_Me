@@ -95,13 +95,7 @@ In free time I play chess (also participates in tournaments).
 * Agile w Jira - [Atlassian](https://ttpsc.com/pl/atlassian/)
 * and more.
 
-## My Projects
 
-* - Group project - testing site [CODE:ME]
-     - [Tablica trello.com](https://trello.com/b/jERw9zEh/codeme-www-bugi)
-     
-* - Group project - testing web app [Cherry-IT Project]
-     - [Tablica trello.com](https://trello.com/b/M8n2uzsJ/stycze%C5%842021-przygotowanie)
 
 
 
