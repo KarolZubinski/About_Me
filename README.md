@@ -18,22 +18,22 @@ In free time I play chess (also participates in tournaments).
   - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers.
   - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet.
   - [Postman](https://www.postman.com/) - Testing tool for REST API.
-  - [Trello](https://trello.com/) - Issue tracking and project management tool for developers.
   - [Browserstack](https://www.browserstack.com/) - BrowserStack’s cloud platform which helps test on many devices.
   - [Screamingfrog](https://www.screamingfrog.co.uk/seo-spider/) - a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
-  - [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (basics).
-  - [Docker](https://www.docker.com/) - (for testers, basics).
-  - [Jenkis](https://www.jenkins.io/) - (for testers, basics).
-  - [Powershell](https://github.com/PowerShell/PowerShell) - an open-source, command-line interface (CLI) based tool, (basics).
+  - [Playwright](https://playwright.dev/) - enables reliable end-to-end testing for modern web apps (Foundation).
+  - [Docker](https://www.docker.com/) - (for testers, Foundation).
+  - [Jenkis](https://www.jenkins.io/) - (for testers, Foundation).
+  - [Powershell](https://github.com/PowerShell/PowerShell) - an open-source, command-line interface (CLI) based tool, (Foundation).
+  - [Trello](https://trello.com/) - Issue tracking and project management tool for developers.
 
 
 ## Tech Stack
 
 
-* Languages:Typescript/ Javascript (for testers)
-* Version Control Systems: Git (basics)
+* Languages:Typescript/ Javascript (for testers Foundation)
+* Version Control Systems: Git (Foundation)
 * IDE: Visual Studio Code
-* Databases: SQL (basics)
+* Databases: SQL (Foundation)
 
 ## Courses 
 
