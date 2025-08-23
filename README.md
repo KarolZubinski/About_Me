@@ -89,7 +89,7 @@ In free time I play chess (also participates in tournaments).
 
 ## Webinars and Podcasts
 
-* Testowanie aplikacji jak robić to dobrze- [Sages](https://www.sages.pl/)
+* Testowanie aplikacji jak robić to dobrze - [Sages](https://www.sages.pl/)
 * Testowanie REST API - [Java dla testera](https://javadlatestera.pl/)
 * Twój pierwszy test automatyczny w chmurze od podstaw - [jaktestować.pl]( https://jaktestowac.pl/)
 * Agile w Jira - [Atlassian](https://ttpsc.com/pl/atlassian/)
