@@ -7,8 +7,8 @@
 My name is Karol Żubiński.
 At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. 
 Currently, 
-I am a Software Tester with more than 2 years ofexperience and recently associated with a large international marketing agency. 
-I have participated inseveral projects ever since. I am constantly developingmyself, expanding my knowledge of various aspects oftesting, learning new tools. 
+I am a Software Tester with more than 2 years of experience and recently associated with a large international marketing agency. 
+I have participated inseveral projects ever since. I am constantly developing myself, expanding my knowledge of various aspects oftesting, learning new tools. 
 Currently, I am focusing on improving my knowledge in terms of test automation. 
 In free time I play chess (also participates in tournaments).
 
