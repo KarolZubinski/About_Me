@@ -15,7 +15,7 @@ In free time I play chess (also participates in tournaments).
 
 # Tools
  
-  - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers.
+  - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool.
   - [Confluence](https://www.atlassian.com/software/confluence) - A team workspace where knowledge and collaboration meet.
   - [Postman](https://www.postman.com/) - Testing tool for REST API.
   - [Browserstack](https://www.browserstack.com/) - BrowserStack’s cloud platform which helps test on many devices.
