@@ -4,7 +4,7 @@
 
 ## About me
 
-My name is Karol Żubiński.
+My name is Karol Żubinski.
 At the beginning of 2020 I became interested in software testing. This field brought my attention because it gives me the opportunity to acquire multiple new skills, explore new technologies and work on my English. 
 Currently, 
 I am a Software Tester with more than 4 years of experience and recently associated with a large international marketing agency. 
@@ -71,8 +71,6 @@ In free time I play chess (also participates in tournaments).
  
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 * [Tester oprogramowania](https://www.facebook.com/groups/141683635854223)
-* [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
-* [Cherry-IT: Zostań Testerem Automatycznym](https://www.facebook.com/groups/195487914423878)
 * [Programowanie - pierwsze kroki (Java, C#, Python, JS)](https://www.facebook.com/groups/485381788583271)
 
 
