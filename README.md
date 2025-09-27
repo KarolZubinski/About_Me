@@ -80,7 +80,7 @@ In free time I play chess (also participates in tournaments).
 
 * [testerzy.pl](http://testerzy.pl)
 * [bulldogjob.pl blog](https://bulldogjob.pl/blog)
-* [Wyszkole Was](https://www.wyszkolewas.com.pl/)
+* [Wyszkole Was](https://www.wyszkolewas.com.pl/blog/)
 * [Just Geek IT](https://geek.justjoin.it/)
 
 
